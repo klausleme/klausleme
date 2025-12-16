@@ -20,11 +20,11 @@
 ---
 
 ## 🌱 About Me
-- 🔭 I’m currently working on **personal projects with Linux servers and cloud environments**  
-- 🌱 I’m currently learning **advanced concepts in energy engineering and cloud-native technologies**  
-- 👯 I’m looking to collaborate on **open-source projects related to cloud, DevOps, or energy tech**  
-- 🤔 I’m looking for help with **exploring integrations between energy systems and cloud computing**  
-- 💬 Ask me about **Linux, Docker, Oracle Cloud, AWS, or DIY tech setups**  
+- 🔭 I’m currently working on **personal projects with Linux servers and cloud environments**.  
+- 🌱 I’m currently learning **advanced concepts in energy engineering and cloud-native technologies**.  
+- 👯 I’m looking to collaborate on **open-source projects related to cloud and DevOps**.  
+- 🤔 I’m looking for help with **exploring integrations between energy systems and cloud computing**.  
+- 💬 Ask me about **Linux, Docker, Oracle Cloud, AWS, or DIY tech setups**.  
 - 📫 How to reach me: **[GitHub Profile](https://github.com/klausleme)**  
 
 ---
