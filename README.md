@@ -8,7 +8,14 @@
 ## 🚀 Skills
 - **Systems & Infrastructure**: Linux, Docker, Home Server setups  
 - **Cloud Computing**: Oracle Cloud, AWS Cloud  
-- **DevOps & Automation**: Containerization, scripting, and optimized environments  
+- **DevOps & Automation**: Containerization, scripting, and optimized environments
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ---
 
@@ -32,3 +39,6 @@
 ---
 
 ✨ *Always curious, always learning, and always building.* 
+
+
+
